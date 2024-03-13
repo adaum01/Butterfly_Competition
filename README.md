@@ -1,2 +1,3 @@
 # Butterfly_Competition
-Final project of semester, handles sorting of csv input - Project 3 - Spring 2021 
+Developed during Spring 2021 Semester - 3rd project for course
+Final project of semester, relates list of known butterflies to photo submissions, sorts the associations made
